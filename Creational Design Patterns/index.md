@@ -5,4 +5,4 @@ Provide object creation mechanisms that increase flexibility and reuse of existi
 - <b>Abstract Factory:</b> Lets you produce families of related objects without specifying their concrete classes.
 - <b>Builder:</b> Lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 - <b>Prototype:</b> Lets you copy existing objects without making your code dependent on their classes.
-- <b>Singleton:</b> Lets you ensure that a class has only one instance, while providing a global access point to this instance.
+- <b>[Singleton](./Singleton/index.md):</b> Lets you ensure that a class has only one instance, while providing a global access point to this instance.
